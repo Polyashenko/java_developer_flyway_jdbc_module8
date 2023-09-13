@@ -1,0 +1,4 @@
+CREATE TABLE osbb_role (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    role VARCHAR(128)
+);

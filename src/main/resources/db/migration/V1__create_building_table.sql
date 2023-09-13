@@ -1,0 +1,4 @@
+CREATE TABLE building (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    address VARCHAR(255)
+);
